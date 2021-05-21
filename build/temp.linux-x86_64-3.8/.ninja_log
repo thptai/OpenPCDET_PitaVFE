@@ -1,0 +1,27 @@
+# ninja log v5
+1	1547	1618561203625022842	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_kernel.o	8d4d27301e889136
+0	8699	1618561210773102058	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_cpu.o	284f72d688cf48aa
+1	8952	1618561211029104867	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms.o	828c0d4c02e16695
+0	15599	1618561217665176891	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_api.o	be99788140b7b6fc
+1	640	1618561218777188826	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d_kernel.o	41c0912fa1dc91db
+0	14955	1618561233085338936	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d.o	465e7e13c2b7a77b
+1	569	1618561234053348863	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d_kernel.o	451eaa212766b705
+0	14682	1618561248153490254	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d.o	61d9fc8deead9ac2
+2	4726	1618561253273540127	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling.o	3ff523fa567dfeb8
+1	4728	1618561253273540127	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points.o	a39635ef8b8ef4d9
+2	4756	1618561253305540435	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate.o	3827a964876e7452
+0	4792	1618561253337540744	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query.o	52ad5bc26437f43f
+1	9762	1618561258305588392	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query_gpu.o	b9bc33f31e27332
+3	9792	1618561258337588696	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate_gpu.o	a35cde8073d4d6ea
+1	9823	1618561258369589000	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points_gpu.o	b2086241ddeb1dd8
+2	10443	1618561258989594899	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling_gpu.o	330891610ab4dc7b
+0	15963	1618561264497646773	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/pointnet2_api.o	361610984822f996
+1	4412	1618561269353691787	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points.o	848c296fb8c54b22
+3	4441	1618561269381692044	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling.o	ca7382de42c544dc
+2	4461	1618561269401692228	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate.o	b0c0a1b246249cac
+1	4787	1618561269725695208	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query.o	78de7fa0615c00da
+2	9707	1618561274641740041	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points_gpu.o	b33fca66d9c6e146
+2	9781	1618561274717740729	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate_gpu.o	a8d33e2e320eea24
+1	9785	1618561274725740802	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query_gpu.o	5888e6098d189cf0
+3	10514	1618561275453747381	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling_gpu.o	ba033b7b9bcac91f
+0	15882	1618561280809795332	/home/vsw4/pita/waymo_2021/OpenPCDet/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/pointnet2_api.o	39981fbec9208c31
